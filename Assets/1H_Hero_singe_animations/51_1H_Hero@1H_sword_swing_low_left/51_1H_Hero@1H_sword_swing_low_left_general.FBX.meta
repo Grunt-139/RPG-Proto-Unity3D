@@ -1,0 +1,229 @@
+fileFormatVersion: 2
+guid: 9de18cf3c39d6d1409506536f98b008d
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Bip01
+    100004: Bip01 back_center_Wmount
+    100006: Bip01 back_left_Wmount
+    100008: Bip01 back_right_Wmount
+    100010: Bip01 back_shield_mount
+    100012: Bip01 Head
+    100014: Bip01 L Calf
+    100016: Bip01 L Clavicle
+    100018: Bip01 L Finger0
+    100020: Bip01 L Finger01
+    100022: Bip01 L Finger02
+    100024: Bip01 L Finger1
+    100026: Bip01 L Finger11
+    100028: Bip01 L Finger12
+    100030: Bip01 L Finger2
+    100032: Bip01 L Finger21
+    100034: Bip01 L Finger22
+    100036: Bip01 L Finger3
+    100038: Bip01 L Finger31
+    100040: Bip01 L Finger32
+    100042: Bip01 L Finger4
+    100044: Bip01 L Finger41
+    100046: Bip01 L Finger42
+    100048: Bip01 L Foot
+    100050: Bip01 L Forearm
+    100052: Bip01 L Hand
+    100054: Bip01 L Thigh
+    100056: Bip01 L Toe0
+    100058: Bip01 L UpperArm
+    100060: Bip01 left_Wmount
+    100062: Bip01 Neck
+    100064: Bip01 Pelvis
+    100066: Bip01 R Calf
+    100068: Bip01 R Clavicle
+    100070: Bip01 R Finger0
+    100072: Bip01 R Finger01
+    100074: Bip01 R Finger02
+    100076: Bip01 R Finger1
+    100078: Bip01 R Finger11
+    100080: Bip01 R Finger12
+    100082: Bip01 R Finger2
+    100084: Bip01 R Finger21
+    100086: Bip01 R Finger22
+    100088: Bip01 R Finger3
+    100090: Bip01 R Finger31
+    100092: Bip01 R Finger32
+    100094: Bip01 R Finger4
+    100096: Bip01 R Finger41
+    100098: Bip01 R Finger42
+    100100: Bip01 R Foot
+    100102: Bip01 R Forearm
+    100104: Bip01 R Hand
+    100106: Bip01 R Thigh
+    100108: Bip01 R Toe0
+    100110: Bip01 R UpperArm
+    100112: Bip01 Rhand_Weapon
+    100114: Bip01 Rhand_WeaponOpp
+    100116: Bip01 right_Wmount
+    100118: Bip01 shield_mount
+    100120: Bip01 Spine
+    100122: Bip01 Spine1
+    100124: Bip01 zeye_left
+    100126: Bip01 zeye_right
+    100128: Bip01 zJaw
+    100130: hero
+    100132: shield01
+    100134: sword01
+    400000: //RootNode
+    400002: Bip01
+    400004: Bip01 back_center_Wmount
+    400006: Bip01 back_left_Wmount
+    400008: Bip01 back_right_Wmount
+    400010: Bip01 back_shield_mount
+    400012: Bip01 Head
+    400014: Bip01 L Calf
+    400016: Bip01 L Clavicle
+    400018: Bip01 L Finger0
+    400020: Bip01 L Finger01
+    400022: Bip01 L Finger02
+    400024: Bip01 L Finger1
+    400026: Bip01 L Finger11
+    400028: Bip01 L Finger12
+    400030: Bip01 L Finger2
+    400032: Bip01 L Finger21
+    400034: Bip01 L Finger22
+    400036: Bip01 L Finger3
+    400038: Bip01 L Finger31
+    400040: Bip01 L Finger32
+    400042: Bip01 L Finger4
+    400044: Bip01 L Finger41
+    400046: Bip01 L Finger42
+    400048: Bip01 L Foot
+    400050: Bip01 L Forearm
+    400052: Bip01 L Hand
+    400054: Bip01 L Thigh
+    400056: Bip01 L Toe0
+    400058: Bip01 L UpperArm
+    400060: Bip01 left_Wmount
+    400062: Bip01 Neck
+    400064: Bip01 Pelvis
+    400066: Bip01 R Calf
+    400068: Bip01 R Clavicle
+    400070: Bip01 R Finger0
+    400072: Bip01 R Finger01
+    400074: Bip01 R Finger02
+    400076: Bip01 R Finger1
+    400078: Bip01 R Finger11
+    400080: Bip01 R Finger12
+    400082: Bip01 R Finger2
+    400084: Bip01 R Finger21
+    400086: Bip01 R Finger22
+    400088: Bip01 R Finger3
+    400090: Bip01 R Finger31
+    400092: Bip01 R Finger32
+    400094: Bip01 R Finger4
+    400096: Bip01 R Finger41
+    400098: Bip01 R Finger42
+    400100: Bip01 R Foot
+    400102: Bip01 R Forearm
+    400104: Bip01 R Hand
+    400106: Bip01 R Thigh
+    400108: Bip01 R Toe0
+    400110: Bip01 R UpperArm
+    400112: Bip01 Rhand_Weapon
+    400114: Bip01 Rhand_WeaponOpp
+    400116: Bip01 right_Wmount
+    400118: Bip01 shield_mount
+    400120: Bip01 Spine
+    400122: Bip01 Spine1
+    400124: Bip01 zeye_left
+    400126: Bip01 zeye_right
+    400128: Bip01 zJaw
+    400130: hero
+    400132: shield01
+    400134: sword01
+    2300000: shield01
+    2300002: sword01
+    3300000: shield01
+    3300002: sword01
+    4300000: shield01
+    4300002: sword01
+    4300004: hero
+    7400000: 1H_sword_swing_low_left_general
+    9500000: //RootNode
+    13700000: hero
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: 1H_sword_swing_low_left_general
+      takeName: Take 001
+      firstFrame: 1432
+      lastFrame: 1467
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: Bip01
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  userData: 

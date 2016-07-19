@@ -1,0 +1,118 @@
+fileFormatVersion: 2
+guid: 84b824b4e93353f40a21e8ab20030f69
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: birdmesh
+    100004: Joint_1
+    100006: Joint_1_2
+    100008: L_midwing
+    100010: L_wing
+    100012: L_wingtip
+    100014: L_wingtip_Goal
+    100016: mid
+    100018: Null
+    100020: R_midwing
+    100022: R_wing
+    100024: R_wingtip
+    100026: R_wingtip_Goal
+    100028: Root
+    400000: //RootNode
+    400002: birdmesh
+    400004: Joint_1
+    400006: Joint_1_2
+    400008: L_midwing
+    400010: L_wing
+    400012: L_wingtip
+    400014: L_wingtip_Goal
+    400016: mid
+    400018: Null
+    400020: R_midwing
+    400022: R_wing
+    400024: R_wingtip
+    400026: R_wingtip_Goal
+    400028: Root
+    4300000: birdmesh
+    7400000: fly
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: birdmesh
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: fly
+      takeName: C4D Animation Take
+      firstFrame: 1
+      lastFrame: 30
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00200000009
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  userData: 

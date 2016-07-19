@@ -1,0 +1,110 @@
+fileFormatVersion: 2
+guid: 3905ef5b9f8cd42748a77f2c1a1995aa
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: House_C_Chimney
+    100004: House_C_Roof
+    100006: House_C_FloorTop
+    100008: House_C_FloorBottom
+    100010: House_C_WindowDoor
+    100012: House_C_Door
+    100014: House_C_WindowBottom_A
+    100016: House_C_WindowBottom_B
+    100018: House_C_WindowTop_B
+    100020: House_C_WindowTop_A
+    400000: //RootNode
+    400002: House_C_Chimney
+    400004: House_C_Roof
+    400006: House_C_FloorTop
+    400008: House_C_FloorBottom
+    400010: House_C_WindowDoor
+    400012: House_C_Door
+    400014: House_C_WindowBottom_A
+    400016: House_C_WindowBottom_B
+    400018: House_C_WindowTop_B
+    400020: House_C_WindowTop_A
+    2300000: House_C_Chimney
+    2300002: House_C_Roof
+    2300004: House_C_FloorTop
+    2300006: House_C_FloorBottom
+    2300008: House_C_WindowDoor
+    2300010: House_C_Door
+    2300012: House_C_WindowBottom_A
+    2300014: House_C_WindowBottom_B
+    2300016: House_C_WindowTop_B
+    2300018: House_C_WindowTop_A
+    3300000: House_C_Chimney
+    3300002: House_C_Roof
+    3300004: House_C_FloorTop
+    3300006: House_C_FloorBottom
+    3300008: House_C_WindowDoor
+    3300010: House_C_Door
+    3300012: House_C_WindowBottom_A
+    3300014: House_C_WindowBottom_B
+    3300016: House_C_WindowTop_B
+    3300018: House_C_WindowTop_A
+    4300000: House_C_WindowTop_A
+    4300002: House_C_WindowTop_B
+    4300004: House_C_WindowBottom_B
+    4300006: House_C_WindowBottom_A
+    4300008: House_C_Door
+    4300010: House_C_WindowDoor
+    4300012: House_C_FloorBottom
+    4300014: House_C_FloorTop
+    4300016: House_C_Roof
+    4300018: House_C_Chimney
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  userData: 
